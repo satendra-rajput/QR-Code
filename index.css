@@ -97,6 +97,7 @@
     border: none;
     background: transparent;
     transform: rotate(180deg);
+    cursor: pointer;
 }
 
 @media (max-width:768px) {
